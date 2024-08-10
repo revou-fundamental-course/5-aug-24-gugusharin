@@ -1,0 +1,16 @@
+/* INI CSS */
+
+.main-tittle {
+    text-align: center;
+}
+
+main{display: flex;
+}
+
+form{    border: 1px solid;
+    padding: 12px;
+    background-color: darkseagreen;
+}
+
+aside{padding: 48px;
+}
